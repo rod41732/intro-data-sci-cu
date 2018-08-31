@@ -1,0 +1,901 @@
+dataset,year,match_id,home_team,away_team,home_score,away_score,winner
+1930--uruguay,1930,1,France,Mexico,4,4,France
+1930--uruguay,1930,5,Argentina,France,1,1,Argentina
+1930--uruguay,1930,6,Chile,Mexico,3,3,Chile
+1930--uruguay,1930,10,Chile,France,1,1,Chile
+1930--uruguay,1930,11,Argentina,Mexico,6,6,Argentina
+1930--uruguay,1930,15,Argentina,Chile,3,3,Argentina
+1930--uruguay,1930,3,Yugoslavia,Brazil,2,2,Yugoslavia
+1930--uruguay,1930,7,Yugoslavia,Bolivia,4,4,Yugoslavia
+1930--uruguay,1930,12,Brazil,Bolivia,4,4,Brazil
+1930--uruguay,1930,4,Romania,Peru,3,3,Romania
+1930--uruguay,1930,9,Uruguay,Peru,1,1,Uruguay
+1930--uruguay,1930,14,Uruguay,Romania,4,4,Uruguay
+1930--uruguay,1930,2,United States,Belgium,3,3,United States
+1930--uruguay,1930,8,United States,Paraguay,3,3,United States
+1930--uruguay,1930,13,Paraguay,Belgium,1,1,Paraguay
+1930--uruguay,1930,16,Argentina,United States,6,6,Argentina
+1930--uruguay,1930,17,Uruguay,Yugoslavia,6,6,Uruguay
+1930--uruguay,1930,18,Uruguay,Argentina,4,4,Uruguay
+1934--italy,1934,1,Sweden,Argentina,3,3,Sweden
+1934--italy,1934,2,Austria,France,3,3,Austria
+1934--italy,1934,3,Germany,Belgium,5,5,Germany
+1934--italy,1934,4,Spain,Brazil,3,3,Spain
+1934--italy,1934,5,Hungary,Egypt,4,4,Hungary
+1934--italy,1934,6,Switzerland,Netherlands,3,3,Switzerland
+1934--italy,1934,7,Italy,United States,7,7,Italy
+1934--italy,1934,8,Czechoslovakia,Romania,2,2,Czechoslovakia
+1934--italy,1934,9,Czechoslovakia,Switzerland,3,3,Czechoslovakia
+1934--italy,1934,10,Germany,Sweden,2,2,Germany
+1934--italy,1934,11,Italy,Spain,1,1,
+1934--italy,1934,12,Austria,Hungary,2,2,Austria
+1934--italy,1934,13,Italy,Spain,1,1,Italy
+1934--italy,1934,14,Italy,Austria,1,1,Italy
+1934--italy,1934,15,Czechoslovakia,Germany,3,3,Czechoslovakia
+1934--italy,1934,16,Germany,Austria,3,3,Germany
+1934--italy,1934,17,Italy,Czechoslovakia,2,2,Italy
+1938--france,1938,1,Switzerland,Germany,1,1,
+1938--france,1938,2,Hungary,Dutch East Indies,6,6,Hungary
+1938--france,1938,3,France,Belgium,3,3,France
+1938--france,1938,4,Cuba,Romania,3,3,
+1938--france,1938,5,Italy,Norway,2,2,Italy
+1938--france,1938,6,Brazil,Poland,6,6,Brazil
+1938--france,1938,7,Czechoslovakia,Netherlands,3,3,Czechoslovakia
+1938--france,1938,8,Cuba,Romania,2,2,Cuba
+1938--france,1938,9,Germany,Switzerland,2,2,Switzerland
+1938--france,1938,10,Brazil,Czechoslovakia,1,1,
+1938--france,1938,11,Switzerland,Hungary,0,0,Hungary
+1938--france,1938,12,Sweden,Cuba,8,8,Sweden
+1938--france,1938,13,France,Italy,1,1,Italy
+1938--france,1938,14,Brazil,Czechoslovakia,2,2,Brazil
+1938--france,1938,15,Hungary,Sweden,5,5,Hungary
+1938--france,1938,16,Italy,Brazil,2,2,Italy
+1938--france,1938,17,Sweden,Brazil,2,2,Brazil
+1938--france,1938,18,Hungary,Italy,2,2,Italy
+1950--brazil,1950,1,Brazil,Mexico,4,4,Brazil
+1950--brazil,1950,5,Yugoslavia,Switzerland,3,3,Yugoslavia
+1950--brazil,1950,6,Brazil,Switzerland,2,2,
+1950--brazil,1950,7,Yugoslavia,Mexico,4,4,Yugoslavia
+1950--brazil,1950,11,Brazil,Yugoslavia,2,2,Brazil
+1950--brazil,1950,14,Switzerland,Mexico,2,2,Switzerland
+1950--brazil,1950,2,England,Chile,2,2,England
+1950--brazil,1950,3,Spain,United States,3,3,Spain
+1950--brazil,1950,8,Spain,Chile,2,2,Spain
+1950--brazil,1950,10,United States,England,1,1,United States
+1950--brazil,1950,12,Spain,England,1,1,Spain
+1950--brazil,1950,15,Chile,United States,5,5,Chile
+1950--brazil,1950,4,Sweden,Italy,3,3,Sweden
+1950--brazil,1950,9,Sweden,Paraguay,2,2,
+1950--brazil,1950,13,Italy,Paraguay,2,2,Italy
+1950--brazil,1950,16,Uruguay,Bolivia,8,8,Uruguay
+1950--brazil,1950,17,Uruguay,Spain,2,2,
+1950--brazil,1950,18,Brazil,Sweden,7,7,Brazil
+1950--brazil,1950,19,Brazil,Spain,6,6,Brazil
+1950--brazil,1950,20,Uruguay,Sweden,3,3,Uruguay
+1950--brazil,1950,21,Sweden,Spain,3,3,Sweden
+1950--brazil,1950,22,Uruguay,Brazil,2,2,Uruguay
+1954--switzerland,1954,3,Brazil,Mexico,5,5,Brazil
+1954--switzerland,1954,4,Yugoslavia,France,1,1,Yugoslavia
+1954--switzerland,1954,10,Brazil,Yugoslavia,1,1,
+1954--switzerland,1954,11,France,Mexico,3,3,France
+1954--switzerland,1954,5,West Germany,Turkey,4,4,West Germany
+1954--switzerland,1954,8,Hungary,South Korea,9,9,Hungary
+1954--switzerland,1954,14,Hungary,West Germany,8,8,Hungary
+1954--switzerland,1954,15,Turkey,South Korea,7,7,Turkey
+1954--switzerland,1954,25,West Germany,Turkey,7,7,West Germany
+1954--switzerland,1954,1,Uruguay,Czechoslovakia,2,2,Uruguay
+1954--switzerland,1954,2,Austria,Scotland,1,1,Austria
+1954--switzerland,1954,9,Austria,Czechoslovakia,5,5,Austria
+1954--switzerland,1954,12,Uruguay,Scotland,7,7,Uruguay
+1954--switzerland,1954,6,England,Belgium,4,4,
+1954--switzerland,1954,7,Switzerland,Italy,2,2,Switzerland
+1954--switzerland,1954,13,England,Switzerland,2,2,England
+1954--switzerland,1954,16,Italy,Belgium,4,4,Italy
+1954--switzerland,1954,26,Switzerland,Italy,4,4,Switzerland
+1954--switzerland,1954,19,Austria,Switzerland,7,7,Austria
+1954--switzerland,1954,20,Uruguay,England,4,4,Uruguay
+1954--switzerland,1954,17,Yugoslavia,West Germany,0,0,West Germany
+1954--switzerland,1954,18,Brazil,Hungary,2,2,Hungary
+1954--switzerland,1954,21,West Germany,Austria,6,6,West Germany
+1954--switzerland,1954,22,Hungary,Uruguay,4,4,Hungary
+1954--switzerland,1954,23,Uruguay,Austria,1,1,Austria
+1954--switzerland,1954,24,Hungary,West Germany,2,2,West Germany
+1958--sweden,1958,7,West Germany,Argentina,3,3,West Germany
+1958--sweden,1958,8,Northern Ireland,Czechoslovakia,1,1,Northern Ireland
+1958--sweden,1958,15,Argentina,Northern Ireland,3,3,Argentina
+1958--sweden,1958,14,West Germany,Czechoslovakia,2,2,
+1958--sweden,1958,23,West Germany,Northern Ireland,2,2,
+1958--sweden,1958,24,Czechoslovakia,Argentina,6,6,Czechoslovakia
+1958--sweden,1958,35,Northern Ireland,Czechoslovakia,2,2,Northern Ireland
+1958--sweden,1958,3,France,Paraguay,7,7,France
+1958--sweden,1958,4,Yugoslavia,Scotland,1,1,
+1958--sweden,1958,11,Yugoslavia,France,3,3,Yugoslavia
+1958--sweden,1958,10,Paraguay,Scotland,3,3,Paraguay
+1958--sweden,1958,20,France,Scotland,2,2,France
+1958--sweden,1958,19,Paraguay,Yugoslavia,3,3,
+1958--sweden,1958,1,Sweden,Mexico,3,3,Sweden
+1958--sweden,1958,2,Hungary,Wales,1,1,
+1958--sweden,1958,9,Mexico,Wales,1,1,
+1958--sweden,1958,16,Sweden,Hungary,2,2,Sweden
+1958--sweden,1958,17,Sweden,Wales,0,0,
+1958--sweden,1958,18,Hungary,Mexico,4,4,Hungary
+1958--sweden,1958,33,Wales,Hungary,2,2,Wales
+1958--sweden,1958,6,Brazil,Austria,3,3,Brazil
+1958--sweden,1958,5,Soviet Union,England,2,2,
+1958--sweden,1958,12,Brazil,England,0,0,
+1958--sweden,1958,13,Soviet Union,Austria,2,2,Soviet Union
+1958--sweden,1958,22,England,Austria,2,2,
+1958--sweden,1958,21,Brazil,Soviet Union,2,2,Brazil
+1958--sweden,1958,34,Soviet Union,England,1,1,Soviet Union
+1958--sweden,1958,26,France,Northern Ireland,4,4,France
+1958--sweden,1958,25,Sweden,Soviet Union,2,2,Sweden
+1958--sweden,1958,27,Brazil,Wales,1,1,Brazil
+1958--sweden,1958,28,West Germany,Yugoslavia,1,1,West Germany
+1958--sweden,1958,29,France,Brazil,2,2,Brazil
+1958--sweden,1958,30,West Germany,Sweden,1,1,Sweden
+1958--sweden,1958,31,West Germany,France,3,3,France
+1958--sweden,1958,32,Sweden,Brazil,2,2,Brazil
+1962--chile,1962,1,Uruguay,Colombia,2,2,Uruguay
+1962--chile,1962,5,Soviet Union,Yugoslavia,2,2,Soviet Union
+1962--chile,1962,9,Yugoslavia,Uruguay,3,3,Yugoslavia
+1962--chile,1962,13,Soviet Union,Colombia,4,4,
+1962--chile,1962,17,Soviet Union,Uruguay,2,2,Soviet Union
+1962--chile,1962,21,Yugoslavia,Colombia,5,5,Yugoslavia
+1962--chile,1962,2,Chile,Switzerland,3,3,Chile
+1962--chile,1962,6,West Germany,Italy,0,0,
+1962--chile,1962,10,Chile,Italy,2,2,Chile
+1962--chile,1962,14,West Germany,Switzerland,2,2,West Germany
+1962--chile,1962,18,West Germany,Chile,2,2,West Germany
+1962--chile,1962,22,Italy,Switzerland,3,3,Italy
+1962--chile,1962,3,Brazil,Mexico,2,2,Brazil
+1962--chile,1962,7,Czechoslovakia,Spain,1,1,Czechoslovakia
+1962--chile,1962,11,Brazil,Czechoslovakia,0,0,
+1962--chile,1962,15,Spain,Mexico,1,1,Spain
+1962--chile,1962,19,Brazil,Spain,2,2,Brazil
+1962--chile,1962,23,Mexico,Czechoslovakia,3,3,Mexico
+1962--chile,1962,4,Argentina,Bulgaria,1,1,Argentina
+1962--chile,1962,8,Hungary,England,2,2,Hungary
+1962--chile,1962,12,England,Argentina,3,3,England
+1962--chile,1962,16,Hungary,Bulgaria,6,6,Hungary
+1962--chile,1962,20,Hungary,Argentina,0,0,
+1962--chile,1962,24,England,Bulgaria,0,0,
+1962--chile,1962,25,Chile,Soviet Union,2,2,Chile
+1962--chile,1962,26,Yugoslavia,West Germany,1,1,Yugoslavia
+1962--chile,1962,27,Brazil,England,3,3,Brazil
+1962--chile,1962,28,Czechoslovakia,Hungary,1,1,Czechoslovakia
+1962--chile,1962,29,Brazil,Chile,4,4,Brazil
+1962--chile,1962,30,Czechoslovakia,Yugoslavia,3,3,Czechoslovakia
+1962--chile,1962,31,Chile,Yugoslavia,1,1,Chile
+1962--chile,1962,32,Brazil,Czechoslovakia,3,3,Brazil
+1966--england,1966,1,England,Uruguay,0,0,
+1966--england,1966,5,France,Mexico,1,1,
+1966--england,1966,9,Uruguay,France,2,2,Uruguay
+1966--england,1966,13,England,Mexico,2,2,England
+1966--england,1966,17,Mexico,Uruguay,0,0,
+1966--england,1966,21,England,France,2,2,England
+1966--england,1966,2,West Germany,Switzerland,5,5,West Germany
+1966--england,1966,6,Argentina,Spain,2,2,Argentina
+1966--england,1966,10,Spain,Switzerland,2,2,Spain
+1966--england,1966,14,Argentina,West Germany,0,0,
+1966--england,1966,18,Argentina,Switzerland,2,2,Argentina
+1966--england,1966,22,West Germany,Spain,2,2,West Germany
+1966--england,1966,3,Brazil,Bulgaria,2,2,Brazil
+1966--england,1966,7,Portugal,Hungary,3,3,Portugal
+1966--england,1966,11,Hungary,Brazil,3,3,Hungary
+1966--england,1966,15,Portugal,Bulgaria,3,3,Portugal
+1966--england,1966,19,Portugal,Brazil,3,3,Portugal
+1966--england,1966,23,Hungary,Bulgaria,3,3,Hungary
+1966--england,1966,4,Soviet Union,North Korea,3,3,Soviet Union
+1966--england,1966,8,Italy,Chile,2,2,Italy
+1966--england,1966,12,Chile,North Korea,1,1,
+1966--england,1966,16,Soviet Union,Italy,1,1,Soviet Union
+1966--england,1966,20,North Korea,Italy,1,1,North Korea
+1966--england,1966,24,Soviet Union,Chile,2,2,Soviet Union
+1966--england,1966,25,England,Argentina,1,1,England
+1966--england,1966,26,West Germany,Uruguay,4,4,West Germany
+1966--england,1966,27,Soviet Union,Hungary,2,2,Soviet Union
+1966--england,1966,28,Portugal,North Korea,5,5,Portugal
+1966--england,1966,29,West Germany,Soviet Union,2,2,West Germany
+1966--england,1966,30,England,Portugal,2,2,England
+1966--england,1966,31,Portugal,Soviet Union,2,2,Portugal
+1966--england,1966,32,England,West Germany,4,4,England
+1970--mexico,1970,1,Mexico,Soviet Union,0,0,
+1970--mexico,1970,5,Belgium,El Salvador,3,3,Belgium
+1970--mexico,1970,9,Soviet Union,Belgium,4,4,Soviet Union
+1970--mexico,1970,13,Mexico,El Salvador,4,4,Mexico
+1970--mexico,1970,17,Soviet Union,El Salvador,2,2,Soviet Union
+1970--mexico,1970,21,Mexico,Belgium,1,1,Mexico
+1970--mexico,1970,2,Uruguay,Israel,2,2,Uruguay
+1970--mexico,1970,6,Italy,Sweden,1,1,Italy
+1970--mexico,1970,10,Uruguay,Italy,0,0,
+1970--mexico,1970,14,Sweden,Israel,1,1,
+1970--mexico,1970,18,Uruguay,Sweden,0,0,Sweden
+1970--mexico,1970,22,Israel,Italy,0,0,
+1970--mexico,1970,3,Romania,England,0,0,England
+1970--mexico,1970,7,Czechoslovakia,Brazil,1,1,Brazil
+1970--mexico,1970,11,Romania,Czechoslovakia,2,2,Romania
+1970--mexico,1970,15,England,Brazil,0,0,Brazil
+1970--mexico,1970,19,Romania,Brazil,2,2,Brazil
+1970--mexico,1970,23,England,Czechoslovakia,1,1,England
+1970--mexico,1970,4,Peru,Bulgaria,3,3,Peru
+1970--mexico,1970,8,Morocco,West Germany,1,1,West Germany
+1970--mexico,1970,12,Peru,Morocco,3,3,Peru
+1970--mexico,1970,16,Bulgaria,West Germany,2,2,West Germany
+1970--mexico,1970,20,Peru,West Germany,1,1,West Germany
+1970--mexico,1970,24,Bulgaria,Morocco,1,1,
+1970--mexico,1970,25,Soviet Union,Uruguay,0,0,Uruguay
+1970--mexico,1970,26,Italy,Mexico,4,4,Italy
+1970--mexico,1970,27,Brazil,Peru,4,4,Brazil
+1970--mexico,1970,28,West Germany,England,3,3,West Germany
+1970--mexico,1970,29,Uruguay,Brazil,1,1,Brazil
+1970--mexico,1970,30,Italy,West Germany,4,4,Italy
+1970--mexico,1970,31,Uruguay,West Germany,0,0,West Germany
+1970--mexico,1970,32,Brazil,Italy,4,4,Brazil
+1974--west-germany,1974,1,West Germany,Chile,1,1,West Germany
+1974--west-germany,1974,2,East Germany,Australia,2,2,East Germany
+1974--west-germany,1974,9,Chile,East Germany,1,1,
+1974--west-germany,1974,10,Australia,West Germany,0,0,West Germany
+1974--west-germany,1974,17,Australia,Chile,0,0,
+1974--west-germany,1974,18,East Germany,West Germany,1,1,East Germany
+1974--west-germany,1974,3,Brazil,Yugoslavia,0,0,
+1974--west-germany,1974,4,Zaire,Scotland,0,0,Scotland
+1974--west-germany,1974,11,Yugoslavia,Zaire,9,9,Yugoslavia
+1974--west-germany,1974,12,Scotland,Brazil,0,0,
+1974--west-germany,1974,19,Scotland,Yugoslavia,1,1,
+1974--west-germany,1974,20,Zaire,Brazil,0,0,Brazil
+1974--west-germany,1974,5,Uruguay,Netherlands,0,0,Netherlands
+1974--west-germany,1974,6,Sweden,Bulgaria,0,0,
+1974--west-germany,1974,13,Netherlands,Sweden,0,0,
+1974--west-germany,1974,14,Uruguay,Bulgaria,1,1,
+1974--west-germany,1974,21,Netherlands,Bulgaria,4,4,Netherlands
+1974--west-germany,1974,22,Sweden,Uruguay,3,3,Sweden
+1974--west-germany,1974,7,Italy,Haiti,3,3,Italy
+1974--west-germany,1974,8,Poland,Argentina,3,3,Poland
+1974--west-germany,1974,15,Haiti,Poland,0,0,Poland
+1974--west-germany,1974,16,Argentina,Italy,1,1,
+1974--west-germany,1974,23,Argentina,Haiti,4,4,Argentina
+1974--west-germany,1974,24,Poland,Italy,2,2,Poland
+1974--west-germany,1974,25,Brazil,East Germany,1,1,Brazil
+1974--west-germany,1974,26,Netherlands,Argentina,4,4,Netherlands
+1974--west-germany,1974,29,East Germany,Netherlands,0,0,Netherlands
+1974--west-germany,1974,30,Argentina,Brazil,1,1,Brazil
+1974--west-germany,1974,33,Argentina,East Germany,1,1,
+1974--west-germany,1974,34,Netherlands,Brazil,2,2,Netherlands
+1974--west-germany,1974,27,Yugoslavia,West Germany,0,0,West Germany
+1974--west-germany,1974,28,Sweden,Poland,0,0,Poland
+1974--west-germany,1974,31,West Germany,Sweden,4,4,West Germany
+1974--west-germany,1974,32,Poland,Yugoslavia,2,2,Poland
+1974--west-germany,1974,35,Poland,West Germany,0,0,West Germany
+1974--west-germany,1974,36,Sweden,Yugoslavia,2,2,Sweden
+1974--west-germany,1974,37,Brazil,Poland,0,0,Poland
+1974--west-germany,1974,38,Netherlands,West Germany,1,1,West Germany
+1978--argentina,1978,2,Argentina,Hungary,2,2,Argentina
+1978--argentina,1978,3,Italy,France,2,2,Italy
+1978--argentina,1978,9,Argentina,France,2,2,Argentina
+1978--argentina,1978,10,Italy,Hungary,3,3,Italy
+1978--argentina,1978,17,Argentina,Italy,0,0,Italy
+1978--argentina,1978,18,France,Hungary,3,3,France
+1978--argentina,1978,1,West Germany,Poland,0,0,
+1978--argentina,1978,4,Tunisia,Mexico,3,3,Tunisia
+1978--argentina,1978,11,Poland,Tunisia,1,1,Poland
+1978--argentina,1978,12,West Germany,Mexico,6,6,West Germany
+1978--argentina,1978,19,Poland,Mexico,3,3,Poland
+1978--argentina,1978,20,West Germany,Tunisia,0,0,
+1978--argentina,1978,5,Austria,Spain,2,2,Austria
+1978--argentina,1978,6,Brazil,Sweden,1,1,
+1978--argentina,1978,13,Austria,Sweden,1,1,Austria
+1978--argentina,1978,14,Brazil,Spain,0,0,
+1978--argentina,1978,21,Spain,Sweden,1,1,Spain
+1978--argentina,1978,22,Brazil,Austria,1,1,Brazil
+1978--argentina,1978,7,Peru,Scotland,3,3,Peru
+1978--argentina,1978,8,Netherlands,Iran,3,3,Netherlands
+1978--argentina,1978,15,Scotland,Iran,1,1,
+1978--argentina,1978,16,Netherlands,Peru,0,0,
+1978--argentina,1978,23,Peru,Iran,4,4,Peru
+1978--argentina,1978,24,Scotland,Netherlands,3,3,Scotland
+1978--argentina,1978,25,Italy,West Germany,0,0,
+1978--argentina,1978,27,Austria,Netherlands,1,1,Netherlands
+1978--argentina,1978,29,Italy,Austria,1,1,Italy
+1978--argentina,1978,31,Netherlands,West Germany,2,2,
+1978--argentina,1978,33,Italy,Netherlands,1,1,Netherlands
+1978--argentina,1978,35,Austria,West Germany,3,3,Austria
+1978--argentina,1978,26,Argentina,Poland,2,2,Argentina
+1978--argentina,1978,28,Peru,Brazil,0,0,Brazil
+1978--argentina,1978,30,Argentina,Brazil,0,0,
+1978--argentina,1978,32,Peru,Poland,0,0,Poland
+1978--argentina,1978,34,Argentina,Peru,6,6,Argentina
+1978--argentina,1978,36,Poland,Brazil,1,1,Brazil
+1978--argentina,1978,37,Brazil,Italy,2,2,Brazil
+1978--argentina,1978,38,Netherlands,Argentina,1,1,Argentina
+1982--spain,1982,2,Italy,Poland,0,0,
+1982--spain,1982,4,Peru,Cameroon,0,0,
+1982--spain,1982,13,Italy,Peru,1,1,
+1982--spain,1982,16,Poland,Cameroon,0,0,
+1982--spain,1982,25,Poland,Peru,5,5,Poland
+1982--spain,1982,28,Italy,Cameroon,1,1,
+1982--spain,1982,7,West Germany,Algeria,1,1,Algeria
+1982--spain,1982,10,Chile,Austria,0,0,Austria
+1982--spain,1982,19,West Germany,Chile,4,4,West Germany
+1982--spain,1982,22,Algeria,Austria,0,0,Austria
+1982--spain,1982,31,Algeria,Chile,3,3,Algeria
+1982--spain,1982,34,West Germany,Austria,1,1,West Germany
+1982--spain,1982,1,Argentina,Belgium,0,0,Belgium
+1982--spain,1982,5,Hungary,El Salvador,10,10,Hungary
+1982--spain,1982,14,Argentina,Hungary,4,4,Argentina
+1982--spain,1982,17,Belgium,El Salvador,1,1,Belgium
+1982--spain,1982,26,Belgium,Hungary,1,1,
+1982--spain,1982,29,Argentina,El Salvador,2,2,Argentina
+1982--spain,1982,8,England,France,3,3,England
+1982--spain,1982,11,Czechoslovakia,Kuwait,1,1,
+1982--spain,1982,20,England,Czechoslovakia,2,2,England
+1982--spain,1982,23,France,Kuwait,4,4,France
+1982--spain,1982,32,France,Czechoslovakia,1,1,
+1982--spain,1982,35,England,Kuwait,1,1,England
+1982--spain,1982,9,Spain,Honduras,1,1,
+1982--spain,1982,12,Yugoslavia,Northern Ireland,0,0,
+1982--spain,1982,21,Spain,Yugoslavia,2,2,Spain
+1982--spain,1982,24,Honduras,Northern Ireland,1,1,
+1982--spain,1982,33,Honduras,Yugoslavia,0,0,Yugoslavia
+1982--spain,1982,36,Spain,Northern Ireland,0,0,Northern Ireland
+1982--spain,1982,3,Brazil,Soviet Union,2,2,Brazil
+1982--spain,1982,6,Scotland,New Zealand,5,5,Scotland
+1982--spain,1982,15,Brazil,Scotland,4,4,Brazil
+1982--spain,1982,18,Soviet Union,New Zealand,3,3,Soviet Union
+1982--spain,1982,27,Soviet Union,Scotland,2,2,
+1982--spain,1982,30,Brazil,New Zealand,4,4,Brazil
+1982--spain,1982,38,Poland,Belgium,3,3,Poland
+1982--spain,1982,42,Belgium,Soviet Union,0,0,Soviet Union
+1982--spain,1982,46,Soviet Union,Poland,0,0,
+1982--spain,1982,40,West Germany,England,0,0,
+1982--spain,1982,44,West Germany,Spain,2,2,West Germany
+1982--spain,1982,48,Spain,England,0,0,
+1982--spain,1982,39,Italy,Argentina,2,2,Italy
+1982--spain,1982,43,Argentina,Brazil,1,1,Brazil
+1982--spain,1982,47,Italy,Brazil,3,3,Italy
+1982--spain,1982,37,Austria,France,0,0,France
+1982--spain,1982,41,Austria,Northern Ireland,2,2,
+1982--spain,1982,45,Northern Ireland,France,1,1,France
+1982--spain,1982,49,Poland,Italy,0,0,Italy
+1982--spain,1982,50,West Germany,France,3,3,West Germany
+1982--spain,1982,51,Poland,France,3,3,Poland
+1982--spain,1982,52,Italy,West Germany,3,3,Italy
+1986--mexico,1986,1,Bulgaria,Italy,1,1,
+1986--mexico,1986,4,Argentina,South Korea,3,3,Argentina
+1986--mexico,1986,13,Italy,Argentina,1,1,
+1986--mexico,1986,14,South Korea,Bulgaria,1,1,
+1986--mexico,1986,27,South Korea,Italy,2,2,Italy
+1986--mexico,1986,28,Argentina,Bulgaria,2,2,Argentina
+1986--mexico,1986,7,Belgium,Mexico,1,1,Mexico
+1986--mexico,1986,10,Paraguay,Iraq,1,1,Paraguay
+1986--mexico,1986,19,Mexico,Paraguay,1,1,
+1986--mexico,1986,22,Iraq,Belgium,1,1,Belgium
+1986--mexico,1986,29,Iraq,Mexico,0,0,Mexico
+1986--mexico,1986,30,Paraguay,Belgium,2,2,
+1986--mexico,1986,2,Canada,France,0,0,France
+1986--mexico,1986,5,Soviet Union,Hungary,6,6,Soviet Union
+1986--mexico,1986,15,France,Soviet Union,1,1,
+1986--mexico,1986,16,Hungary,Canada,2,2,Hungary
+1986--mexico,1986,25,Hungary,France,0,0,France
+1986--mexico,1986,26,Soviet Union,Canada,2,2,Soviet Union
+1986--mexico,1986,3,Spain,Brazil,0,0,Brazil
+1986--mexico,1986,8,Algeria,Northern Ireland,1,1,
+1986--mexico,1986,17,Brazil,Algeria,1,1,Brazil
+1986--mexico,1986,20,Northern Ireland,Spain,1,1,Spain
+1986--mexico,1986,33,Northern Ireland,Brazil,0,0,Brazil
+1986--mexico,1986,34,Algeria,Spain,0,0,Spain
+1986--mexico,1986,11,Uruguay,West Germany,1,1,
+1986--mexico,1986,12,Scotland,Denmark,0,0,Denmark
+1986--mexico,1986,23,West Germany,Scotland,2,2,West Germany
+1986--mexico,1986,24,Denmark,Uruguay,6,6,Denmark
+1986--mexico,1986,35,Denmark,West Germany,2,2,Denmark
+1986--mexico,1986,36,Scotland,Uruguay,0,0,
+1986--mexico,1986,6,Morocco,Poland,0,0,
+1986--mexico,1986,9,Portugal,England,1,1,Portugal
+1986--mexico,1986,18,England,Morocco,0,0,
+1986--mexico,1986,21,Poland,Portugal,1,1,Poland
+1986--mexico,1986,31,Portugal,Morocco,1,1,Morocco
+1986--mexico,1986,32,England,Poland,3,3,England
+1986--mexico,1986,37,Mexico,Bulgaria,2,2,Mexico
+1986--mexico,1986,38,Soviet Union,Belgium,3,3,Belgium
+1986--mexico,1986,39,Argentina,Uruguay,1,1,Argentina
+1986--mexico,1986,40,Brazil,Poland,4,4,Brazil
+1986--mexico,1986,41,Italy,France,0,0,France
+1986--mexico,1986,42,Morocco,West Germany,0,0,West Germany
+1986--mexico,1986,43,England,Paraguay,3,3,England
+1986--mexico,1986,44,Denmark,Spain,1,1,Spain
+1986--mexico,1986,45,Brazil,France,1,1,France
+1986--mexico,1986,46,West Germany,Mexico,0,0,West Germany
+1986--mexico,1986,47,Spain,Belgium,1,1,Belgium
+1986--mexico,1986,48,Argentina,England,2,2,Argentina
+1986--mexico,1986,49,Argentina,Belgium,2,2,Argentina
+1986--mexico,1986,50,France,West Germany,0,0,West Germany
+1986--mexico,1986,51,France,Belgium,4,4,France
+1986--mexico,1986,52,Argentina,West Germany,3,3,Argentina
+1990--italy,1990,3,Italy,Austria,1,1,Italy
+1990--italy,1990,5,United States,Czechoslovakia,1,1,Czechoslovakia
+1990--italy,1990,15,Italy,United States,1,1,Italy
+1990--italy,1990,17,Austria,Czechoslovakia,0,0,Czechoslovakia
+1990--italy,1990,29,Italy,Czechoslovakia,2,2,Italy
+1990--italy,1990,30,Austria,United States,2,2,Austria
+1990--italy,1990,1,Argentina,Cameroon,0,0,Cameroon
+1990--italy,1990,2,Soviet Union,Romania,0,0,Romania
+1990--italy,1990,13,Argentina,Soviet Union,2,2,Argentina
+1990--italy,1990,16,Cameroon,Romania,2,2,Cameroon
+1990--italy,1990,25,Argentina,Romania,1,1,
+1990--italy,1990,26,Cameroon,Soviet Union,0,0,Soviet Union
+1990--italy,1990,6,Brazil,Sweden,2,2,Brazil
+1990--italy,1990,8,Costa Rica,Scotland,1,1,Costa Rica
+1990--italy,1990,19,Brazil,Costa Rica,1,1,Brazil
+1990--italy,1990,20,Sweden,Scotland,1,1,Scotland
+1990--italy,1990,31,Brazil,Scotland,1,1,Brazil
+1990--italy,1990,32,Sweden,Costa Rica,1,1,Costa Rica
+1990--italy,1990,4,United Arab Emirates,Colombia,0,0,Colombia
+1990--italy,1990,7,West Germany,Yugoslavia,4,4,West Germany
+1990--italy,1990,14,Yugoslavia,Colombia,1,1,Yugoslavia
+1990--italy,1990,18,West Germany,United Arab Emirates,5,5,West Germany
+1990--italy,1990,27,West Germany,Colombia,1,1,
+1990--italy,1990,28,Yugoslavia,United Arab Emirates,4,4,Yugoslavia
+1990--italy,1990,10,Belgium,South Korea,2,2,Belgium
+1990--italy,1990,12,Uruguay,Spain,0,0,
+1990--italy,1990,23,Belgium,Uruguay,3,3,Belgium
+1990--italy,1990,24,South Korea,Spain,1,1,Spain
+1990--italy,1990,33,Belgium,Spain,1,1,Spain
+1990--italy,1990,34,South Korea,Uruguay,0,0,Uruguay
+1990--italy,1990,9,England,Ireland,1,1,
+1990--italy,1990,11,Netherlands,Egypt,1,1,
+1990--italy,1990,21,England,Netherlands,0,0,
+1990--italy,1990,22,Ireland,Egypt,0,0,
+1990--italy,1990,35,England,Egypt,1,1,England
+1990--italy,1990,36,Ireland,Netherlands,1,1,
+1990--italy,1990,37,Cameroon,Colombia,2,2,Cameroon
+1990--italy,1990,38,Czechoslovakia,Costa Rica,4,4,Czechoslovakia
+1990--italy,1990,39,Brazil,Argentina,0,0,Argentina
+1990--italy,1990,40,West Germany,Netherlands,2,2,West Germany
+1990--italy,1990,41,Ireland,Romania,0,0,Ireland
+1990--italy,1990,42,Italy,Uruguay,2,2,Italy
+1990--italy,1990,43,Spain,Yugoslavia,1,1,Yugoslavia
+1990--italy,1990,44,England,Belgium,1,1,England
+1990--italy,1990,45,Yugoslavia,Argentina,0,0,Argentina
+1990--italy,1990,46,Italy,Ireland,1,1,Italy
+1990--italy,1990,47,West Germany,Czechoslovakia,1,1,West Germany
+1990--italy,1990,48,England,Cameroon,3,3,England
+1990--italy,1990,49,Italy,Argentina,1,1,Argentina
+1990--italy,1990,50,West Germany,England,1,1,West Germany
+1990--italy,1990,51,Italy,England,2,2,Italy
+1990--italy,1990,52,West Germany,Argentina,1,1,West Germany
+1994--united-states,1994,3,United States,Switzerland,1,1,
+1994--united-states,1994,5,Colombia,Romania,1,1,Romania
+1994--united-states,1994,14,Romania,Switzerland,1,1,Switzerland
+1994--united-states,1994,15,United States,Colombia,2,2,United States
+1994--united-states,1994,25,United States,Romania,0,0,Romania
+1994--united-states,1994,26,Switzerland,Colombia,0,0,Colombia
+1994--united-states,1994,8,Cameroon,Sweden,2,2,
+1994--united-states,1994,9,Brazil,Russia,2,2,Brazil
+1994--united-states,1994,19,Brazil,Cameroon,3,3,Brazil
+1994--united-states,1994,20,Sweden,Russia,3,3,Sweden
+1994--united-states,1994,31,Russia,Cameroon,6,6,Russia
+1994--united-states,1994,32,Brazil,Sweden,1,1,
+1994--united-states,1994,1,Germany,Bolivia,1,1,Germany
+1994--united-states,1994,2,Spain,South Korea,2,2,
+1994--united-states,1994,12,Germany,Spain,1,1,
+1994--united-states,1994,17,South Korea,Bolivia,0,0,
+1994--united-states,1994,27,Bolivia,Spain,1,1,Spain
+1994--united-states,1994,28,Germany,South Korea,3,3,Germany
+1994--united-states,1994,11,Argentina,Greece,4,4,Argentina
+1994--united-states,1994,13,Nigeria,Bulgaria,3,3,Nigeria
+1994--united-states,1994,23,Argentina,Nigeria,2,2,Argentina
+1994--united-states,1994,24,Greece,Bulgaria,0,0,Bulgaria
+1994--united-states,1994,35,Greece,Nigeria,0,0,Nigeria
+1994--united-states,1994,36,Argentina,Bulgaria,0,0,Bulgaria
+1994--united-states,1994,4,Italy,Ireland,0,0,Ireland
+1994--united-states,1994,7,Norway,Mexico,1,1,Norway
+1994--united-states,1994,16,Italy,Norway,1,1,Italy
+1994--united-states,1994,18,Mexico,Ireland,2,2,Mexico
+1994--united-states,1994,29,Ireland,Norway,0,0,
+1994--united-states,1994,30,Italy,Mexico,1,1,
+1994--united-states,1994,6,Belgium,Morocco,1,1,Belgium
+1994--united-states,1994,10,Netherlands,Saudi Arabia,2,2,Netherlands
+1994--united-states,1994,21,Belgium,Netherlands,1,1,Belgium
+1994--united-states,1994,22,Saudi Arabia,Morocco,2,2,Saudi Arabia
+1994--united-states,1994,33,Morocco,Netherlands,1,1,Netherlands
+1994--united-states,1994,34,Belgium,Saudi Arabia,0,0,Saudi Arabia
+1994--united-states,1994,37,Germany,Belgium,3,3,Germany
+1994--united-states,1994,38,Spain,Switzerland,3,3,Spain
+1994--united-states,1994,39,Saudi Arabia,Sweden,1,1,Sweden
+1994--united-states,1994,40,Romania,Argentina,3,3,Romania
+1994--united-states,1994,41,Netherlands,Ireland,2,2,Netherlands
+1994--united-states,1994,42,Brazil,United States,1,1,Brazil
+1994--united-states,1994,43,Nigeria,Italy,1,1,Italy
+1994--united-states,1994,44,Mexico,Bulgaria,1,1,Bulgaria
+1994--united-states,1994,45,Italy,Spain,2,2,Italy
+1994--united-states,1994,46,Netherlands,Brazil,2,2,Brazil
+1994--united-states,1994,47,Bulgaria,Germany,2,2,Bulgaria
+1994--united-states,1994,48,Romania,Sweden,2,2,Sweden
+1994--united-states,1994,49,Bulgaria,Italy,1,1,Italy
+1994--united-states,1994,50,Sweden,Brazil,0,0,Brazil
+1994--united-states,1994,51,Sweden,Bulgaria,4,4,Sweden
+1994--united-states,1994,52,Brazil,Italy,0,0,Brazil
+1998--france,1998,1,Brazil,Scotland,2,2,Brazil
+1998--france,1998,2,Morocco,Norway,2,2,
+1998--france,1998,17,Scotland,Norway,1,1,
+1998--france,1998,18,Brazil,Morocco,3,3,Brazil
+1998--france,1998,34,Scotland,Morocco,0,0,Morocco
+1998--france,1998,35,Brazil,Norway,1,1,Norway
+1998--france,1998,3,Cameroon,Austria,1,1,
+1998--france,1998,4,Italy,Chile,2,2,
+1998--france,1998,19,Chile,Austria,1,1,
+1998--france,1998,20,Italy,Cameroon,3,3,Italy
+1998--france,1998,33,Italy,Austria,2,2,Italy
+1998--france,1998,36,Chile,Cameroon,1,1,
+1998--france,1998,5,Saudi Arabia,Denmark,0,0,Denmark
+1998--france,1998,6,France,South Africa,3,3,France
+1998--france,1998,21,France,Saudi Arabia,4,4,France
+1998--france,1998,22,South Africa,Denmark,1,1,
+1998--france,1998,38,France,Denmark,2,2,France
+1998--france,1998,40,South Africa,Saudi Arabia,2,2,
+1998--france,1998,7,Paraguay,Bulgaria,0,0,
+1998--france,1998,10,Spain,Nigeria,2,2,Nigeria
+1998--france,1998,23,Nigeria,Bulgaria,1,1,Nigeria
+1998--france,1998,24,Spain,Paraguay,0,0,
+1998--france,1998,37,Spain,Bulgaria,6,6,Spain
+1998--france,1998,39,Nigeria,Paraguay,1,1,Paraguay
+1998--france,1998,8,Netherlands,Belgium,0,0,
+1998--france,1998,9,South Korea,Mexico,1,1,Mexico
+1998--france,1998,25,Netherlands,South Korea,5,5,Netherlands
+1998--france,1998,26,Belgium,Mexico,2,2,
+1998--france,1998,41,Belgium,South Korea,1,1,
+1998--france,1998,42,Netherlands,Mexico,2,2,
+1998--france,1998,12,Yugoslavia,Iran,1,1,Yugoslavia
+1998--france,1998,14,Germany,United States,2,2,Germany
+1998--france,1998,29,Germany,Yugoslavia,2,2,
+1998--france,1998,30,United States,Iran,1,1,Iran
+1998--france,1998,43,Germany,Iran,2,2,Germany
+1998--france,1998,44,United States,Yugoslavia,0,0,Yugoslavia
+1998--france,1998,15,Romania,Colombia,1,1,Romania
+1998--france,1998,16,England,Tunisia,2,2,England
+1998--france,1998,31,Colombia,Tunisia,1,1,Colombia
+1998--france,1998,32,Romania,England,2,2,Romania
+1998--france,1998,45,Romania,Tunisia,1,1,
+1998--france,1998,46,Colombia,England,0,0,England
+1998--france,1998,11,Jamaica,Croatia,1,1,Croatia
+1998--france,1998,13,Argentina,Japan,1,1,Argentina
+1998--france,1998,27,Japan,Croatia,0,0,Croatia
+1998--france,1998,28,Argentina,Jamaica,5,5,Argentina
+1998--france,1998,47,Japan,Jamaica,1,1,Jamaica
+1998--france,1998,48,Argentina,Croatia,1,1,Argentina
+1998--france,1998,49,Brazil,Chile,4,4,Brazil
+1998--france,1998,50,Italy,Norway,1,1,Italy
+1998--france,1998,51,Nigeria,Denmark,1,1,Denmark
+1998--france,1998,52,France,Paraguay,1,1,France
+1998--france,1998,53,Germany,Mexico,2,2,Germany
+1998--france,1998,54,Netherlands,Yugoslavia,2,2,Netherlands
+1998--france,1998,55,Argentina,England,2,2,Argentina
+1998--france,1998,56,Romania,Croatia,0,0,Croatia
+1998--france,1998,57,Italy,France,0,0,France
+1998--france,1998,58,Brazil,Denmark,3,3,Brazil
+1998--france,1998,59,Germany,Croatia,0,0,Croatia
+1998--france,1998,60,Netherlands,Argentina,2,2,Netherlands
+1998--france,1998,61,Brazil,Netherlands,1,1,Brazil
+1998--france,1998,62,France,Croatia,2,2,France
+1998--france,1998,63,Netherlands,Croatia,1,1,Croatia
+1998--france,1998,64,Brazil,France,0,0,France
+2002--south-korea-n-japan,2002,1,France,Senegal,0,0,Senegal
+2002--south-korea-n-japan,2002,3,Uruguay,Denmark,1,1,Denmark
+2002--south-korea-n-japan,2002,18,France,Uruguay,0,0,
+2002--south-korea-n-japan,2002,19,Denmark,Senegal,1,1,
+2002--south-korea-n-japan,2002,33,Denmark,France,2,2,Denmark
+2002--south-korea-n-japan,2002,34,Senegal,Uruguay,3,3,
+2002--south-korea-n-japan,2002,6,Paraguay,South Africa,2,2,
+2002--south-korea-n-japan,2002,8,Spain,Slovenia,3,3,Spain
+2002--south-korea-n-japan,2002,22,Spain,Paraguay,3,3,Spain
+2002--south-korea-n-japan,2002,24,South Africa,Slovenia,1,1,South Africa
+2002--south-korea-n-japan,2002,39,South Africa,Spain,2,2,Spain
+2002--south-korea-n-japan,2002,40,Slovenia,Paraguay,1,1,Paraguay
+2002--south-korea-n-japan,2002,10,Brazil,Turkey,2,2,Brazil
+2002--south-korea-n-japan,2002,12,China,Costa Rica,0,0,Costa Rica
+2002--south-korea-n-japan,2002,26,Brazil,China,4,4,Brazil
+2002--south-korea-n-japan,2002,28,Costa Rica,Turkey,1,1,
+2002--south-korea-n-japan,2002,41,Costa Rica,Brazil,2,2,Brazil
+2002--south-korea-n-japan,2002,42,Turkey,China,3,3,Turkey
+2002--south-korea-n-japan,2002,14,South Korea,Poland,2,2,South Korea
+2002--south-korea-n-japan,2002,16,United States,Portugal,3,3,United States
+2002--south-korea-n-japan,2002,30,South Korea,United States,1,1,
+2002--south-korea-n-japan,2002,32,Portugal,Poland,4,4,Portugal
+2002--south-korea-n-japan,2002,47,Portugal,South Korea,0,0,South Korea
+2002--south-korea-n-japan,2002,48,Poland,United States,3,3,Poland
+2002--south-korea-n-japan,2002,2,Ireland,Cameroon,1,1,
+2002--south-korea-n-japan,2002,4,Germany,Saudi Arabia,8,8,Germany
+2002--south-korea-n-japan,2002,17,Germany,Ireland,1,1,
+2002--south-korea-n-japan,2002,19,Cameroon,Saudi Arabia,1,1,Cameroon
+2002--south-korea-n-japan,2002,35,Cameroon,Germany,0,0,Germany
+2002--south-korea-n-japan,2002,36,Saudi Arabia,Ireland,0,0,Ireland
+2002--south-korea-n-japan,2002,5,England,Sweden,1,1,
+2002--south-korea-n-japan,2002,7,Argentina,Nigeria,1,1,Argentina
+2002--south-korea-n-japan,2002,21,Sweden,Nigeria,2,2,Sweden
+2002--south-korea-n-japan,2002,23,Argentina,England,0,0,England
+2002--south-korea-n-japan,2002,37,Sweden,Argentina,1,1,
+2002--south-korea-n-japan,2002,38,Nigeria,England,0,0,
+2002--south-korea-n-japan,2002,9,Croatia,Mexico,0,0,Mexico
+2002--south-korea-n-japan,2002,11,Italy,Ecuador,2,2,Italy
+2002--south-korea-n-japan,2002,25,Italy,Croatia,1,1,Croatia
+2002--south-korea-n-japan,2002,27,Mexico,Ecuador,2,2,Mexico
+2002--south-korea-n-japan,2002,43,Mexico,Italy,1,1,
+2002--south-korea-n-japan,2002,44,Ecuador,Croatia,1,1,Ecuador
+2002--south-korea-n-japan,2002,13,Japan,Belgium,2,2,
+2002--south-korea-n-japan,2002,15,Russia,Tunisia,2,2,Russia
+2002--south-korea-n-japan,2002,29,Japan,Russia,1,1,Japan
+2002--south-korea-n-japan,2002,31,Tunisia,Belgium,1,1,
+2002--south-korea-n-japan,2002,45,Tunisia,Japan,0,0,Japan
+2002--south-korea-n-japan,2002,46,Belgium,Russia,3,3,Belgium
+2002--south-korea-n-japan,2002,49,Germany,Paraguay,1,1,Germany
+2002--south-korea-n-japan,2002,50,Denmark,England,0,0,England
+2002--south-korea-n-japan,2002,51,Sweden,Senegal,1,1,Senegal
+2002--south-korea-n-japan,2002,52,Spain,Ireland,1,1,Spain
+2002--south-korea-n-japan,2002,53,Mexico,United States,0,0,United States
+2002--south-korea-n-japan,2002,54,Brazil,Belgium,2,2,Brazil
+2002--south-korea-n-japan,2002,55,Japan,Turkey,0,0,Turkey
+2002--south-korea-n-japan,2002,56,South Korea,Italy,2,2,South Korea
+2002--south-korea-n-japan,2002,57,England,Brazil,1,1,Brazil
+2002--south-korea-n-japan,2002,58,Germany,United States,1,1,Germany
+2002--south-korea-n-japan,2002,59,Spain,South Korea,0,0,South Korea
+2002--south-korea-n-japan,2002,60,Senegal,Turkey,0,0,Turkey
+2002--south-korea-n-japan,2002,61,Germany,South Korea,1,1,Germany
+2002--south-korea-n-japan,2002,62,Brazil,Turkey,1,1,Brazil
+2002--south-korea-n-japan,2002,63,South Korea,Turkey,2,2,Turkey
+2002--south-korea-n-japan,2002,64,Germany,Brazil,0,0,Brazil
+2006--germany,2006,1,Germany,Costa Rica,4,4,Germany
+2006--germany,2006,2,Poland,Ecuador,0,0,Ecuador
+2006--germany,2006,17,Germany,Poland,1,1,Germany
+2006--germany,2006,18,Ecuador,Costa Rica,3,3,Ecuador
+2006--germany,2006,33,Ecuador,Germany,0,0,Germany
+2006--germany,2006,34,Costa Rica,Poland,1,1,Poland
+2006--germany,2006,3,England,Paraguay,1,1,England
+2006--germany,2006,4,Trinidad and Tobago,Sweden,0,0,
+2006--germany,2006,19,England,Trinidad and Tobago,2,2,England
+2006--germany,2006,20,Sweden,Paraguay,1,1,Sweden
+2006--germany,2006,35,Sweden,England,2,2,
+2006--germany,2006,36,Paraguay,Trinidad and Tobago,2,2,Paraguay
+2006--germany,2006,5,Argentina,Côte d'Ivoire,2,2,Argentina
+2006--germany,2006,6,Serbia and Montenegro,Netherlands,0,0,Netherlands
+2006--germany,2006,21,Argentina,Serbia and Montenegro,6,6,Argentina
+2006--germany,2006,22,Netherlands,Côte d'Ivoire,2,2,Netherlands
+2006--germany,2006,37,Netherlands,Argentina,0,0,
+2006--germany,2006,38,Côte d'Ivoire,Serbia and Montenegro,3,3,Côte d'Ivoire
+2006--germany,2006,7,Mexico,Iran,3,3,Mexico
+2006--germany,2006,8,Angola,Portugal,0,0,Portugal
+2006--germany,2006,23,Mexico,Angola,0,0,
+2006--germany,2006,24,Portugal,Iran,2,2,Portugal
+2006--germany,2006,39,Portugal,Mexico,2,2,Portugal
+2006--germany,2006,40,Iran,Angola,1,1,
+2006--germany,2006,9,Italy,Ghana,2,2,Italy
+2006--germany,2006,10,United States,Czech Republic,0,0,Czech Republic
+2006--germany,2006,25,Italy,United States,1,1,
+2006--germany,2006,26,Czech Republic,Ghana,0,0,Ghana
+2006--germany,2006,41,Czech Republic,Italy,0,0,Italy
+2006--germany,2006,42,Ghana,United States,2,2,Ghana
+2006--germany,2006,11,Brazil,Croatia,1,1,Brazil
+2006--germany,2006,12,Australia,Japan,3,3,Australia
+2006--germany,2006,27,Brazil,Australia,2,2,Brazil
+2006--germany,2006,28,Japan,Croatia,0,0,
+2006--germany,2006,43,Japan,Brazil,1,1,Brazil
+2006--germany,2006,44,Croatia,Australia,2,2,
+2006--germany,2006,13,France,Switzerland,0,0,
+2006--germany,2006,14,South Korea,Togo,2,2,South Korea
+2006--germany,2006,29,France,South Korea,1,1,
+2006--germany,2006,30,Togo,Switzerland,0,0,Switzerland
+2006--germany,2006,45,Togo,France,0,0,France
+2006--germany,2006,46,Switzerland,South Korea,2,2,Switzerland
+2006--germany,2006,15,Spain,Ukraine,4,4,Spain
+2006--germany,2006,16,Tunisia,Saudi Arabia,2,2,
+2006--germany,2006,31,Spain,Tunisia,3,3,Spain
+2006--germany,2006,32,Saudi Arabia,Ukraine,0,0,Ukraine
+2006--germany,2006,47,Saudi Arabia,Spain,0,0,Spain
+2006--germany,2006,48,Ukraine,Tunisia,1,1,Ukraine
+2006--germany,2006,49,Germany,Sweden,2,2,Germany
+2006--germany,2006,50,Argentina,Mexico,2,2,Argentina
+2006--germany,2006,51,England,Ecuador,1,1,England
+2006--germany,2006,52,Portugal,Netherlands,1,1,Portugal
+2006--germany,2006,53,Italy,Australia,1,1,Italy
+2006--germany,2006,54,Switzerland,Ukraine,0,0,Ukraine
+2006--germany,2006,55,Brazil,Ghana,3,3,Brazil
+2006--germany,2006,56,Spain,France,1,1,France
+2006--germany,2006,57,Germany,Argentina,1,1,Germany
+2006--germany,2006,58,Italy,Ukraine,3,3,Italy
+2006--germany,2006,59,England,Portugal,0,0,Portugal
+2006--germany,2006,60,Brazil,France,0,0,France
+2006--germany,2006,61,Germany,Italy,0,0,Italy
+2006--germany,2006,62,Portugal,France,0,0,France
+2006--germany,2006,63,Germany,Portugal,3,3,Germany
+2006--germany,2006,64,Italy,France,1,1,Italy
+2010--south-africa,2010,1,South Africa,Mexico,1,1,
+2010--south-africa,2010,2,Uruguay,France,0,0,
+2010--south-africa,2010,17,South Africa,Uruguay,0,0,Uruguay
+2010--south-africa,2010,18,France,Mexico,0,0,Mexico
+2010--south-africa,2010,33,Mexico,Uruguay,0,0,Uruguay
+2010--south-africa,2010,34,France,South Africa,1,1,South Africa
+2010--south-africa,2010,4,South Korea,Greece,2,2,South Korea
+2010--south-africa,2010,3,Argentina,Nigeria,1,1,Argentina
+2010--south-africa,2010,20,Argentina,South Korea,4,4,Argentina
+2010--south-africa,2010,19,Greece,Nigeria,2,2,Greece
+2010--south-africa,2010,35,Nigeria,South Korea,2,2,
+2010--south-africa,2010,36,Greece,Argentina,0,0,Argentina
+2010--south-africa,2010,5,England,United States,1,1,
+2010--south-africa,2010,6,Algeria,Slovenia,0,0,Slovenia
+2010--south-africa,2010,22,Slovenia,United States,2,2,
+2010--south-africa,2010,23,England,Algeria,0,0,
+2010--south-africa,2010,38,United States,Algeria,1,1,United States
+2010--south-africa,2010,37,Slovenia,England,0,0,England
+2010--south-africa,2010,8,Serbia,Ghana,0,0,Ghana
+2010--south-africa,2010,7,Germany,Australia,4,4,Germany
+2010--south-africa,2010,21,Germany,Serbia,0,0,Serbia
+2010--south-africa,2010,24,Ghana,Australia,1,1,
+2010--south-africa,2010,40,Australia,Serbia,2,2,Australia
+2010--south-africa,2010,39,Ghana,Germany,0,0,Germany
+2010--south-africa,2010,9,Netherlands,Denmark,2,2,Netherlands
+2010--south-africa,2010,10,Japan,Cameroon,1,1,Japan
+2010--south-africa,2010,25,Netherlands,Japan,1,1,Netherlands
+2010--south-africa,2010,26,Cameroon,Denmark,1,1,Denmark
+2010--south-africa,2010,43,Denmark,Japan,1,1,Japan
+2010--south-africa,2010,44,Cameroon,Netherlands,1,1,Netherlands
+2010--south-africa,2010,11,Italy,Paraguay,1,1,
+2010--south-africa,2010,12,New Zealand,Slovakia,1,1,
+2010--south-africa,2010,27,Slovakia,Paraguay,0,0,Paraguay
+2010--south-africa,2010,28,Italy,New Zealand,1,1,
+2010--south-africa,2010,41,Slovakia,Italy,3,3,Slovakia
+2010--south-africa,2010,42,Paraguay,New Zealand,0,0,
+2010--south-africa,2010,13,Côte d'Ivoire,Portugal,0,0,
+2010--south-africa,2010,14,Brazil,North Korea,2,2,Brazil
+2010--south-africa,2010,29,Brazil,Côte d'Ivoire,3,3,Brazil
+2010--south-africa,2010,30,Portugal,North Korea,7,7,Portugal
+2010--south-africa,2010,45,Portugal,Brazil,0,0,
+2010--south-africa,2010,46,North Korea,Côte d'Ivoire,0,0,Côte d'Ivoire
+2010--south-africa,2010,15,Honduras,Chile,0,0,Chile
+2010--south-africa,2010,16,Spain,Switzerland,0,0,Switzerland
+2010--south-africa,2010,31,Chile,Switzerland,1,1,Chile
+2010--south-africa,2010,32,Spain,Honduras,2,2,Spain
+2010--south-africa,2010,47,Chile,Spain,1,1,Spain
+2010--south-africa,2010,48,Switzerland,Honduras,0,0,
+2010--south-africa,2010,49,Uruguay,South Korea,2,2,Uruguay
+2010--south-africa,2010,50,United States,Ghana,1,1,Ghana
+2010--south-africa,2010,51,Germany,England,4,4,Germany
+2010--south-africa,2010,52,Argentina,Mexico,3,3,Argentina
+2010--south-africa,2010,53,Netherlands,Slovakia,2,2,Netherlands
+2010--south-africa,2010,54,Brazil,Chile,3,3,Brazil
+2010--south-africa,2010,55,Paraguay,Japan,0,0,Paraguay
+2010--south-africa,2010,56,Spain,Portugal,1,1,Spain
+2010--south-africa,2010,57,Netherlands,Brazil,2,2,Netherlands
+2010--south-africa,2010,58,Uruguay,Ghana,1,1,Uruguay
+2010--south-africa,2010,59,Argentina,Germany,0,0,Germany
+2010--south-africa,2010,60,Paraguay,Spain,0,0,Spain
+2010--south-africa,2010,61,Uruguay,Netherlands,2,2,Netherlands
+2010--south-africa,2010,62,Germany,Spain,0,0,Spain
+2010--south-africa,2010,63,Uruguay,Germany,2,2,Germany
+2010--south-africa,2010,64,Netherlands,Spain,0,0,Spain
+2014--brazil,2014,1,Brazil,Croatia,3,3,Brazil
+2014--brazil,2014,2,Mexico,Cameroon,1,1,Mexico
+2014--brazil,2014,17,Brazil,Mexico,0,0,
+2014--brazil,2014,18,Cameroon,Croatia,0,0,Croatia
+2014--brazil,2014,33,Cameroon,Brazil,1,1,Brazil
+2014--brazil,2014,34,Croatia,Mexico,1,1,Mexico
+2014--brazil,2014,3,Spain,Netherlands,1,1,Netherlands
+2014--brazil,2014,4,Chile,Australia,3,3,Chile
+2014--brazil,2014,19,Spain,Chile,0,0,Chile
+2014--brazil,2014,20,Australia,Netherlands,2,2,Netherlands
+2014--brazil,2014,35,Australia,Spain,0,0,Spain
+2014--brazil,2014,36,Netherlands,Chile,2,2,Netherlands
+2014--brazil,2014,5,Colombia,Greece,3,3,Colombia
+2014--brazil,2014,6,Côte d'Ivoire,Japan,2,2,Côte d'Ivoire
+2014--brazil,2014,21,Colombia,Côte d'Ivoire,2,2,Colombia
+2014--brazil,2014,22,Japan,Greece,0,0,
+2014--brazil,2014,37,Japan,Colombia,1,1,Colombia
+2014--brazil,2014,38,Greece,Côte d'Ivoire,2,2,Greece
+2014--brazil,2014,7,Uruguay,Costa Rica,1,1,Costa Rica
+2014--brazil,2014,8,England,Italy,1,1,Italy
+2014--brazil,2014,23,Uruguay,England,2,2,Uruguay
+2014--brazil,2014,24,Italy,Costa Rica,0,0,Costa Rica
+2014--brazil,2014,39,Italy,Uruguay,0,0,Uruguay
+2014--brazil,2014,40,Costa Rica,England,0,0,
+2014--brazil,2014,9,Switzerland,Ecuador,2,2,Switzerland
+2014--brazil,2014,10,France,Honduras,3,3,France
+2014--brazil,2014,25,Switzerland,France,2,2,France
+2014--brazil,2014,26,Honduras,Ecuador,1,1,Ecuador
+2014--brazil,2014,41,Honduras,Switzerland,0,0,Switzerland
+2014--brazil,2014,42,Ecuador,France,0,0,
+2014--brazil,2014,11,Argentina,Bosnia-Herzegovina,2,2,Argentina
+2014--brazil,2014,12,Iran,Nigeria,0,0,
+2014--brazil,2014,27,Argentina,Iran,1,1,Argentina
+2014--brazil,2014,28,Nigeria,Bosnia-Herzegovina,1,1,Nigeria
+2014--brazil,2014,43,Nigeria,Argentina,2,2,Argentina
+2014--brazil,2014,44,Bosnia-Herzegovina,Iran,3,3,Bosnia-Herzegovina
+2014--brazil,2014,13,Germany,Portugal,4,4,Germany
+2014--brazil,2014,14,Ghana,United States,1,1,United States
+2014--brazil,2014,29,Germany,Ghana,2,2,
+2014--brazil,2014,30,United States,Portugal,2,2,
+2014--brazil,2014,45,United States,Germany,0,0,Germany
+2014--brazil,2014,46,Portugal,Ghana,2,2,Portugal
+2014--brazil,2014,15,Belgium,Algeria,2,2,Belgium
+2014--brazil,2014,16,Russia,South Korea,1,1,
+2014--brazil,2014,31,Belgium,Russia,1,1,Belgium
+2014--brazil,2014,32,South Korea,Algeria,2,2,Algeria
+2014--brazil,2014,47,South Korea,Belgium,0,0,Belgium
+2014--brazil,2014,48,Algeria,Russia,1,1,
+2014--brazil,2014,49,Brazil,Chile,1,1,Brazil
+2014--brazil,2014,50,Colombia,Uruguay,2,2,Colombia
+2014--brazil,2014,51,Netherlands,Mexico,2,2,Netherlands
+2014--brazil,2014,52,Costa Rica,Greece,1,1,Costa Rica
+2014--brazil,2014,53,France,Nigeria,2,2,France
+2014--brazil,2014,54,Germany,Algeria,2,2,Germany
+2014--brazil,2014,55,Argentina,Switzerland,1,1,Argentina
+2014--brazil,2014,56,Belgium,United States,2,2,Belgium
+2014--brazil,2014,57,Brazil,Colombia,2,2,Brazil
+2014--brazil,2014,58,France,Germany,0,0,Germany
+2014--brazil,2014,59,Netherlands,Costa Rica,0,0,Netherlands
+2014--brazil,2014,60,Argentina,Belgium,1,1,Argentina
+2014--brazil,2014,61,Brazil,Germany,1,1,Germany
+2014--brazil,2014,62,Netherlands,Argentina,0,0,Argentina
+2014--brazil,2014,63,Brazil,Netherlands,0,0,Netherlands
+2014--brazil,2014,64,Germany,Argentina,1,1,Germany
+2018--russia,2018,1,Russia,Saudi Arabia,5,5,Russia
+2018--russia,2018,2,Egypt,Uruguay,0,0,Uruguay
+2018--russia,2018,17,Russia,Egypt,3,3,Russia
+2018--russia,2018,18,Uruguay,Saudi Arabia,1,1,Uruguay
+2018--russia,2018,33,Uruguay,Russia,3,3,Uruguay
+2018--russia,2018,34,Saudi Arabia,Egypt,2,2,Saudi Arabia
+2018--russia,2018,4,Morocco,Iran,0,0,Iran
+2018--russia,2018,3,Portugal,Spain,3,3,
+2018--russia,2018,19,Portugal,Morocco,1,1,Portugal
+2018--russia,2018,20,Iran,Spain,0,0,Spain
+2018--russia,2018,35,Iran,Portugal,1,1,
+2018--russia,2018,36,Spain,Morocco,2,2,
+2018--russia,2018,5,France,Australia,2,2,France
+2018--russia,2018,6,Peru,Denmark,0,0,Denmark
+2018--russia,2018,22,Denmark,Australia,1,1,
+2018--russia,2018,21,France,Peru,1,1,France
+2018--russia,2018,37,Denmark,France,0,0,
+2018--russia,2018,38,Australia,Peru,0,0,Peru
+2018--russia,2018,7,Argentina,Iceland,1,1,
+2018--russia,2018,8,Croatia,Nigeria,2,2,Croatia
+2018--russia,2018,23,Argentina,Croatia,0,0,Croatia
+2018--russia,2018,24,Nigeria,Iceland,2,2,Nigeria
+2018--russia,2018,39,Nigeria,Argentina,1,1,Argentina
+2018--russia,2018,40,Iceland,Croatia,1,1,Croatia
+2018--russia,2018,10,Costa Rica,Serbia,0,0,Serbia
+2018--russia,2018,9,Brazil,Switzerland,1,1,
+2018--russia,2018,25,Brazil,Costa Rica,2,2,Brazil
+2018--russia,2018,26,Serbia,Switzerland,1,1,Switzerland
+2018--russia,2018,41,Serbia,Brazil,0,0,Brazil
+2018--russia,2018,42,Switzerland,Costa Rica,2,2,
+2018--russia,2018,11,Germany,Mexico,0,0,Mexico
+2018--russia,2018,12,Sweden,South Korea,1,1,Sweden
+2018--russia,2018,28,South Korea,Mexico,1,1,Mexico
+2018--russia,2018,27,Germany,Sweden,2,2,Germany
+2018--russia,2018,43,South Korea,Germany,2,2,South Korea
+2018--russia,2018,44,Mexico,Sweden,0,0,Sweden
+2018--russia,2018,13,Belgium,Panama,3,3,Belgium
+2018--russia,2018,14,Tunisia,England,1,1,England
+2018--russia,2018,29,Belgium,Tunisia,5,5,Belgium
+2018--russia,2018,30,England,Panama,6,6,England
+2018--russia,2018,45,England,Belgium,0,0,Belgium
+2018--russia,2018,46,Panama,Tunisia,1,1,Tunisia
+2018--russia,2018,16,Colombia,Japan,1,1,Japan
+2018--russia,2018,15,Poland,Senegal,1,1,Senegal
+2018--russia,2018,32,Japan,Senegal,2,2,
+2018--russia,2018,31,Poland,Colombia,0,0,Colombia
+2018--russia,2018,47,Japan,Poland,0,0,Poland
+2018--russia,2018,48,Senegal,Colombia,0,0,Colombia
+2018--russia,2018,49,Uruguay,Portugal,2,2,Uruguay
+2018--russia,2018,50,France,Argentina,4,4,France
+2018--russia,2018,51,Spain,Russia,1,1,Russia
+2018--russia,2018,52,Croatia,Denmark,1,1,Croatia
+2018--russia,2018,53,Brazil,Mexico,2,2,Brazil
+2018--russia,2018,54,Belgium,Japan,3,3,Belgium
+2018--russia,2018,55,Sweden,Switzerland,1,1,Sweden
+2018--russia,2018,56,Colombia,England,1,1,England
+2018--russia,2018,57,Uruguay,France,0,0,France
+2018--russia,2018,58,Brazil,Belgium,1,1,Belgium
+2018--russia,2018,59,Russia,Croatia,2,2,Croatia
+2018--russia,2018,60,Sweden,England,0,0,England
+2018--russia,2018,61,France,Belgium,1,1,France
+2018--russia,2018,62,Croatia,England,2,2,Croatia
+2018--russia,2018,63,Belgium,England,2,2,Belgium
+2018--russia,2018,64,France,Croatia,4,4,France
